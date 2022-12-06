@@ -1,0 +1,5 @@
+com\bikerent\AdminModuleApplicationTests.class
+com\bikerent\BookingTesting.class
+com\bikerent\FeedbackTesting.class
+com\bikerent\UserTesting.class
+com\bikerent\PaymentTesting.class
